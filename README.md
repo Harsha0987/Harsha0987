@@ -3,9 +3,7 @@
 **Full Stack Web Developer | MERN Stack | JavaScript Enthusiast**
 
 📞 **Contact:**  
-- 📧 Email: vharsha101@gmail.com  
-- 📞 Phone: +91 6303237730  
-- 📍 Gooty, Anantapur (Dist.), Andhra Pradesh
+- 📧 Email: vharsha101@gmail.com 
 
 📌 **Portfolio:** [Portfolio Link](#)  
 📌 **LinkedIn:** [k-harsha-vardhan-378884220](#)  
