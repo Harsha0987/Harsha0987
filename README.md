@@ -1,5 +1,4 @@
-# 👋 Welcome to My World of Code! 🌍  
-
+<img src="https://em-content.zobj.net/thumbs/120/apple/325/waving-hand_1f44b.png" alt="👋" width="35" style="vertical-align:middle;"> Welcome to My World of Code! 🌍
 Hi there! I’m **Harsha**, a **Full-Stack Developer** and a **MERN Stack Enthusiast** with a passion for crafting scalable, user-friendly, and visually stunning web applications. I believe in blending **clean code** with **great design** to bring impactful ideas to life.  
 
 > 🚀 **"Exploring the infinite possibilities of code, one line at a time!"**
@@ -48,8 +47,8 @@ For me, development isn’t just about writing code—it’s about solving probl
 ## 📬 **Let’s Connect!**  
 I’m always up for discussions about tech, collaborations, or simply geeking out over cool ideas. Feel free to reach out!  
 
-- 🌐 **Portfolio**: [[Your Portfolio Link] ](https://harsha-portfolio-io.netlify.app/) 
-- 💼 **LinkedIn**: [[Your LinkedIn Link]](https://www.linkedin.com/in/k-harsha-vardhan-378884220/)  
+- 🌐 **Portfolio**: https://harsha-portfolio-io.netlify.app/
+- 💼 **LinkedIn**: https://www.linkedin.com/in/k-harsha-vardhan-378884220/ 
 - ✉️ **Email**: vharsha101@gmail.com
 
 > **"The best way to predict the future is to create it."** – Alan Kay  
