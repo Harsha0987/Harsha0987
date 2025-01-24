@@ -1,5 +1,6 @@
-<img src="https://em-content.zobj.net/thumbs/120/apple/325/waving-hand_1f44b.png" alt="👋" width="35" style="vertical-align:middle;"> Welcome to My World of Code! 🌍
-Hi there! I’m **Harsha**, a **Full-Stack Developer** and a **MERN Stack Enthusiast** with a passion for crafting scalable, user-friendly, and visually stunning web applications. I believe in blending **clean code** with **great design** to bring impactful ideas to life.  
+# 👋 Welcome to My World of Code! 🌍  
+
+Hi there! I’m *Harsha**, a **Full-Stack Developer** and a **MERN Stack Enthusiast** with a passion for crafting scalable, user-friendly, and visually stunning web applications. I believe in blending **clean code** with **great design** to bring impactful ideas to life.  
 
 > 🚀 **"Exploring the infinite possibilities of code, one line at a time!"**
 
@@ -15,7 +16,8 @@ Here’s a collection of technologies I’ve mastered and use to bring ideas to 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
 
 ### **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)   
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)  
 
 ### **Database**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)  
@@ -47,9 +49,10 @@ For me, development isn’t just about writing code—it’s about solving probl
 ## 📬 **Let’s Connect!**  
 I’m always up for discussions about tech, collaborations, or simply geeking out over cool ideas. Feel free to reach out!  
 
-- 🌐 **Portfolio**: https://harsha-portfolio-io.netlify.app/
+- 🌐 **Portfolio**: https://harsha-portfolio-io.netlify.app/ 
 - 💼 **LinkedIn**: https://www.linkedin.com/in/k-harsha-vardhan-378884220/ 
-- ✉️ **Email**: vharsha101@gmail.com
+- ✉️ **Email**: vharsha101@gmail.com  
 
 > **"The best way to predict the future is to create it."** – Alan Kay  
 
+--- 
