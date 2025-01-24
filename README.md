@@ -1,6 +1,6 @@
 # 👋 Welcome to My World of Code! 🌍  
 
-Hi there! I’m *Harsha**, a **Full-Stack Developer** and a **MERN Stack Enthusiast** with a passion for crafting scalable, user-friendly, and visually stunning web applications. I believe in blending **clean code** with **great design** to bring impactful ideas to life.  
+Hi there! I’m **Harsha**, a **Full-Stack Developer** and a **MERN Stack Enthusiast** with a passion for crafting scalable, user-friendly, and visually stunning web applications. I believe in blending **clean code** with **great design** to bring impactful ideas to life.  
 
 > 🚀 **"Exploring the infinite possibilities of code, one line at a time!"**
 
